@@ -1,3 +1,5 @@
+[walmart logo](https://github.com/Dhanushkumar04/walmart_sales_analysis/blob/main/walmart_logo.png)
+
 # Walmart Sales Data Analysis Using Python & PostgreSQL
 
 ## Project Overview
